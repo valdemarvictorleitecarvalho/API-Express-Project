@@ -1,0 +1,19 @@
+{
+  "name": "api-express-project",
+  "version": "1.0.0",
+  "main": "src/server.mjs",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Valdemar Carvalho",
+  "license": "ISC",
+  "description": "Small project with Express",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
