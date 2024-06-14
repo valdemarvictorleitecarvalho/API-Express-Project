@@ -1,0 +1,1 @@
+This project is a simple Express-based RESTful API designed to manage a collection of products. The API allows you to create, read, update, and delete product entries. The data is stored in an in-memory database for simplicity.
